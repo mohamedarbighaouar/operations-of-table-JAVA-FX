@@ -1,2 +1,2 @@
-# operation-of-table Java FX
-This project we show you how to insert &amp; update &amp; delete and save data in Database and load it to TableView using javaFx and MySQL
+# opération de table Java FX
+Ce projet, nous vous montrons comment insérer &amp; mettre à jour &amp; supprimez et enregistrez les données dans la base de données et chargez-les dans TableView à l'aide de javaFx et MySQL
